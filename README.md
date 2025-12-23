@@ -4,7 +4,7 @@ A real-time cryptocurrency and currency tracker built with Python and Streamlit,
 # The Challenge
 Investors and hobbyists often need to check the prices of various currencies (like USD to EUR) or cryptocurrencies (like Bitcoin or Ethereum) throughout the day. Opening a massive financial news site can be slow, cluttered with ads, and overwhelming.
 
-##The Solution
+# The Solution
 You will build a clean, ad-free web dashboard hosted on your localhost that:
 
 1. Fetches Live Data: Connects to a real-world financial API to get the latest prices.
